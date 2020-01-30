@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key = "AKITMAXUEZYXTV5"     						#\\Here u have to give ur "access_key" which u have to find it in aws
-  secret_key = "qtH9zypwI0YaBjsPAZp0oZ"     	#\\Here u have to give ur "secret_key" which u have to find it in aws
+  access_key = "ACCESS KEY"     						#\\Here u have to give ur "access_key" which u have to find it in aws
+  secret_key = "SECRET KEY"     	#\\Here u have to give ur "secret_key" which u have to find it in aws
   region     = "ap-south-1"     								#\\mention the region where u want to launch your instance
  
 }
